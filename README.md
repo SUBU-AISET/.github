@@ -30,6 +30,6 @@ We utilize various hardware and software to perceive real-life problems much lik
 </p>
 </details>
 
-Team Founder: @davutcanakbas
-Team Leader: @cyhunblr
-Team VP: @Recepalp10
+Team Founder: [@davutcanakbas](https://github.com/davutcanakbas)
+Team Leader: [@cyhunblr](https://github.com/cyhunblr)
+Team VP: [@Recepalp10](https://github.com/Recepalp10)
