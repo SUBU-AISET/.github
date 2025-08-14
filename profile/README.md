@@ -32,4 +32,3 @@ We utilize various hardware and software to perceive real-life problems much lik
 
 Team Founder: [@davutcanakbas](https://github.com/davutcanakbas)
 Team Supervisor: [@cyhunblr](https://github.com/cyhunblr)
-Team Leader: [@wroomhers](https://github.com/wroomhers)
